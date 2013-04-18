@@ -3,9 +3,9 @@
   <parent>
     <groupId>cn.com.sinosoft.ie.mvn</groupId>
 	<artifactId>basic</artifactId>
-	<version>0.1.1-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>basic-cli</artifactId>
-  <version>0.1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <version>0.0.1-SNAPSHOT</version>
 </project>
